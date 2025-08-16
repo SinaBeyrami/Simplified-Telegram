@@ -243,4 +243,4 @@ This codebase demonstrates how to build a modular CLI messenger with:
 ---
 
 
-License: MIT © <Sina Beyrami>
+License: MIT © Sina Beyrami
