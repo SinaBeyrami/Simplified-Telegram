@@ -241,3 +241,6 @@ This codebase demonstrates how to build a modular CLI messenger with:
 * **Readable, maintainable** Java without external dependencies
 
 ---
+
+
+License: MIT © <Sina Beyrami>
